@@ -1,0 +1,2 @@
+This test checks over a range of beams for a given module if the beam are written correctly
+It was tested on ABS 2.0 but it can be adapted to work with ABS 1.0 without or with minor changes.
